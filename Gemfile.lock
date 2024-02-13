@@ -13,7 +13,6 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
-    ffi (1.16.3)
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     hawkins (2.0.5)
@@ -52,6 +51,8 @@ GEM
       listen (~> 3.0)
     kramdown (2.4.0)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     liquid (4.0.4)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -89,7 +90,6 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
-  x86_64-linux
 
 DEPENDENCIES
   hawkins
@@ -99,6 +99,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-timeago (~> 0.13.1)
+  kramdown-parser-gfm
   tzinfo-data
   webrick (~> 1.7)
 
