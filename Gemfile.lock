@@ -85,7 +85,6 @@ GEM
     tzinfo-data (1.2024.1)
       tzinfo (>= 1.0.0)
     uri (0.13.0)
-    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -101,7 +100,6 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-timeago (~> 0.13.1)
   tzinfo-data
-  wdm
   webrick (~> 1.7)
 
 BUNDLED WITH

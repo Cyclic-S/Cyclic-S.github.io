@@ -31,7 +31,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
-  gem "wdm"
   gem 'jekyll-paginate'
   gem 'jekyll-gist'
   gem 'jekyll-redirect-from'
