@@ -31,12 +31,12 @@ My research interest includes:
 
 # 🏅 Honors and Awards
 - *2023.12* Win the `1st Prize` in the 15th National Collegiate Mathematics Competition Preliminary Contest (Mathematics Class A).[[Ref.]](https://www.cms.org.cn/Home/comp/comp_details/id/1160.html)
-- *2023.3* Win the `1st Prize` in the 14th National Collegiate Mathematics Competition Preliminary Contest (Mathematics Class B). [[Ref.]](http://www.cmathc.cn/article/140.html)
+- *2023.03* Win the `1st Prize` in the 14th National Collegiate Mathematics Competition Preliminary Contest (Mathematics Class B).[[Ref.]](http://www.cmathc.cn/article/140.html)
 
 # 💬 Conferences
 
 
 
-# 🏭 Internships
-
+# ✨ Misc
+Welcome to follow my [Zhihu](https://www.zhihu.com/people/truth-26-44) account and my [bilibili](https://space.bilibili.com/516695104?spm_id_from=333.788.0.0) account.
   
