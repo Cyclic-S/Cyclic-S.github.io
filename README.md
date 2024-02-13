@@ -84,7 +84,7 @@ gem 'tzinfo-data'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw] 
 ```
 
-Hint1
+## Hint1
 ```
 bundle clean
 bundle update
@@ -92,7 +92,7 @@ bundle install
 bundle lock --add-platform x86_64-linux
 bundle exec jekyll serve
 ```
-Hint2
+## Hint2
 ```
 git add .
 git commit -m "commit"
