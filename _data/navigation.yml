@@ -1,0 +1,35 @@
+# main links links
+main:
+  - title: "Educations"
+    url: \#educations
+
+  - title: "Publications"
+    url: \#publications
+
+  - title: "Honors and Awards"
+    url: \#haa
+
+  - title: "Conferences"
+    url: \#conferences
+
+  - title: "Internships"
+    url: \#internships
+
+  - title: "Misc"
+    url: \#misc
+
+  - title: "Talks"
+    url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+    
+  # - title: "CV (Chinese)"
+  #   url: /files/SitengHuang-CV-cn.pdf
+
+  # - title: "CV (English)"
+  #   url: /files/SitengHuang-CV-en.pdf
+    
