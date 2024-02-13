@@ -30,9 +30,9 @@ My research interest includes:
 
 
 # 🏅 Honors and Awards
-- *2023.12* Win the `1st Prize` in the 15th National Collegiate Mathematics Competition(Mathematics Class A).[[Ref]](https://www.cms.org.cn/Home/comp/comp_details/id/1160.html)
-- *2023.11* Win the `2st Prize` in the 2023 National Collegiate Mathematical Contest in Modeling.[[Ref]](http://www.zzu.edu.cn/info/1442/82329.htm)
-- *2023.03* Win the `1st Prize` in the 14th National Collegiate Mathematics Competition(Mathematics Class B).[[Ref]](http://www.cmathc.cn/article/140.html)
+- *2023.12* Win the `1st Prize` in the 15th Chinese Mathematics Competitions(Mathematics Class A).[[Ref]](https://www.cms.org.cn/Home/comp/comp_details/id/1160.html)
+- *2023.11* Win the `2st Prize` in the 2023 Contemporary Undergraduate Mathematical Contest in Modeling.[[Ref]](http://www.zzu.edu.cn/info/1442/82329.htm)
+- *2023.03* Win the `1st Prize` in the 14th Chinese Mathematics Competitions(Mathematics Class B).[[Ref]](http://www.cmathc.cn/article/140.html)
 
 # 💬 Conferences
 
