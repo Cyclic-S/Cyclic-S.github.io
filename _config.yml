@@ -116,6 +116,13 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _pages
@@ -124,7 +131,14 @@ defaults:
       type: pages
     values:
       layout: default
-      author_profile: true
+      author_profile: false
+  # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: default
+  #     author_profile: true
 
 
 # Sass/SCSS
