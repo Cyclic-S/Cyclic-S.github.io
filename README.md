@@ -84,19 +84,18 @@ gem 'tzinfo-data'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw] 
 ```
 
-## Hint1
-```
+然后
+
+```text
 bundle clean
-bundle update
-bundle install
-bundle lock --add-platform x86_64-linux
+bundle install 
+```
+
+重新的启动Jekyll服务
+
+```text
 bundle exec jekyll serve
 ```
-## Hint2
-```
-git add .
-git commit -m "commit"
-% git pull
-git push
-```
+
+
 
