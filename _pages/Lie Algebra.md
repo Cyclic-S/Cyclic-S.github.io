@@ -1,6 +1,7 @@
 ---
 title: "Lie Algebra"
 collection: pages
+permalink: /pages/Lie-Algebra
 date: 2024-02-04
 venue: 'emmm'
 ---

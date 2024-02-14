@@ -132,13 +132,7 @@ defaults:
     values:
       layout: default
       author_profile: false
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: default
-  #     author_profile: true
+
 
 
 # Sass/SCSS
