@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 title: "Lie Algebra"
 permalink: /talks/Lie-algebra
 date: 2024-02-14
