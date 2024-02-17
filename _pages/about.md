@@ -20,11 +20,11 @@ My research interest includes:
 
 <h2 id='haa'> 🏅 Honors and Awards </h2>
 
-- *2023.12* Win the `1st Prize` in the 15th Mathematics competition of Chinese(Mathematics Class A).
+- *2023.12* Win the `1st Prize` in the 15th Mathematics Competition of Chinese(Mathematics Class A).
 
 - *2023.11* Win the `2st Prize` in the 2023 Contemporary Undergraduate Mathematical Contest in Modeling.
 
-- *2023.03* Win the `1st Prize` in the 14th Mathematics competition of Chinese(Mathematics Class B).
+- *2023.03* Win the `1st Prize` in the 14th Mathematics Competition of Chinese(Mathematics Class B).
 
 <h2 id='conferences'> 💬 Conferences </h2>
 
