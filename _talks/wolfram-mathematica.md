@@ -32,3 +32,11 @@ cityP = APIFunction[{"city" -> "City",
 EmbedCode[CloudDeploy[cityP]]
 </pre>
 <iframe src="https://www.wolframcloud.com/obj/intmath/cityP" width="800" height="700"></iframe>
+
+## FactorInteger
+
+<pre>
+func = APIFunction[{"x" -> "Integer"}, FactorInteger[#x] &, "HTML"];
+EmbedCode[CloudDeploy[func]]
+</pre>
+<iframe src="https://www.wolframcloud.com/obj/intmath/FactorInteger" width="800" height="600"></iframe>
