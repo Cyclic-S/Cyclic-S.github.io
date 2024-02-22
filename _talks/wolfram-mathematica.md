@@ -5,6 +5,30 @@ permalink: /talks/Mathematica
 date: 2024-02-21
 ---
 
-Local Time in Shangqiu by Mathematica.
+## Local Time in `city` by Mathematica.
 
-<iframe src="https://www.wolframcloud.com/obj/5ee4fd1b-dae1-49dd-bab4-a1f8326a1d88?_embed=iframe&city=Shangqiu" width="300" height="300"></iframe>
+<pre>
+cityTime = 
+  APIFunction[{"city" -> "City"}, ClockGauge[LocalTime[#city]] &, 
+   "HTML"];
+EmbedCode[CloudDeploy[cityTime]]
+</pre>
+<iframe src="https://www.wolframcloud.com/obj/intmath/cityTime" width="800" height="600"></iframe>
+
+## Local GeoGraphics in `city` by Mathematica.
+
+<pre>
+cityL = APIFunction[{"city" -> "City"}, GeoGraphics[#city] &, 
+   "HTML"];
+EmbedCode[CloudDeploy[cityL]]
+</pre>
+<iframe src="https://www.wolframcloud.com/obj/intmath/cityL" width="800" height="600"></iframe>
+
+<pre>
+cityP = APIFunction[{"city" -> "City", 
+    "province" -> "AdministrativeDivision"}, 
+   GeoGraphics[{EdgeForm[Black], FaceForm[Red], Polygon[#province], 
+      GeoMarker[#city]}, GeoScaleBar -> Automatic] &, "HTML"];
+EmbedCode[CloudDeploy[cityP]]
+</pre>
+<iframe src="https://www.wolframcloud.com/obj/intmath/cityP" width="800" height="700"></iframe>
