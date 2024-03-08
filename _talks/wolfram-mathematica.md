@@ -53,3 +53,12 @@ int = APIFunction[{"function" -> "Expression",
 EmbedCode[CloudDeploy[int]]
 </pre>
 <iframe src="https://www.wolframcloud.com/obj/intmath/integrate" width="800" height="1210"></iframe>
+
+## Factor
+
+<pre>
+fac = APIFunction[{"polynomial" -> "Expression"}, 
+   Factor[#polynomial] &, "HTML"];
+EmbedCode[CloudDeploy[fac]]
+</pre>
+<iframe src="https://www.wolframcloud.com/obj/intmath/fac" width="800" height="750"></iframe>
