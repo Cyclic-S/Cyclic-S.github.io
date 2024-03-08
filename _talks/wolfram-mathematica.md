@@ -41,3 +41,15 @@ func = APIFunction[{"x" -> "Integer"}, FactorInteger[#x] &, "HTML"];
 EmbedCode[CloudDeploy[func]]
 </pre>
 <iframe src="https://www.wolframcloud.com/obj/intmath/FactorInteger" width="800" height="600"></iframe>
+
+## Integrate
+
+<pre>
+int = APIFunction[{"function" -> "Expression", 
+    "variable" -> "Expression", "lowerLimit" -> "Real", 
+    "upperLimit" -> "Real"}, 
+   Integrate[#function, {#variable, #lowerLimit, #upperLimit}] &, 
+   "HTML"];
+EmbedCode[CloudDeploy[int]]
+</pre>
+<iframe src="https://www.wolframcloud.com/obj/intmath/integrate" width="800" height="1210"></iframe>
