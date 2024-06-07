@@ -3,10 +3,7 @@ main:
   - title: "Educations"
     url: \#educations
 
-  - title: "Publications"
-    url: \#publications
-
-  - title: "Honors and Awards"
+  - title: "Awards"
     url: \#haa
 
   - title: "Conferences"

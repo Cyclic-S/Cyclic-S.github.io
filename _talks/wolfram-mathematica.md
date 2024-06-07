@@ -14,7 +14,7 @@ cityTime =
    "HTML"];
 EmbedCode[CloudDeploy[cityTime]]
 </pre>
-<iframe src="https://www.wolframcloud.com/obj/intmath/cityTime" width="800" height="600"></iframe>
+
 
 ## Local GeoGraphics in `city` by Mathematica.
 
@@ -23,7 +23,7 @@ cityL = APIFunction[{"city" -> "City"}, GeoGraphics[#city] &,
    "HTML"];
 EmbedCode[CloudDeploy[cityL]]
 </pre>
-<iframe src="https://www.wolframcloud.com/obj/intmath/cityL" width="800" height="600"></iframe>
+
 
 <pre>
 cityP = APIFunction[{"city" -> "City", 
@@ -32,7 +32,7 @@ cityP = APIFunction[{"city" -> "City",
       GeoMarker[#city]}, GeoScaleBar -> Automatic] &, "HTML"];
 EmbedCode[CloudDeploy[cityP]]
 </pre>
-<iframe src="https://www.wolframcloud.com/obj/intmath/cityP" width="800" height="700"></iframe>
+
 
 ## FactorInteger
 
@@ -40,7 +40,7 @@ EmbedCode[CloudDeploy[cityP]]
 func = APIFunction[{"x" -> "Integer"}, FactorInteger[#x] &, "HTML"];
 EmbedCode[CloudDeploy[func]]
 </pre>
-<iframe src="https://www.wolframcloud.com/obj/intmath/FactorInteger" width="800" height="600"></iframe>
+
 
 ## Integrate
 
@@ -52,7 +52,7 @@ int = APIFunction[{"function" -> "Expression",
    "HTML"];
 EmbedCode[CloudDeploy[int]]
 </pre>
-<iframe src="https://www.wolframcloud.com/obj/intmath/integrate" width="800" height="1210"></iframe>
+
 
 ## Factor
 
@@ -61,4 +61,3 @@ fac = APIFunction[{"polynomial" -> "Expression"},
    Factor[#polynomial] &, "HTML"];
 EmbedCode[CloudDeploy[fac]]
 </pre>
-<iframe src="https://www.wolframcloud.com/obj/intmath/fac" width="800" height="750"></iframe>
