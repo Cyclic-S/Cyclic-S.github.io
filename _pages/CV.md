@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my resume([cv-zh](/ref/cv.pdf)). I hope it will be helpful to you!
+Here is my resume([cv-zh](/ref/cv.pdf),[cv-en](/ref/cv-en.pdf)). I hope it will be helpful to you!
 

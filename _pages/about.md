@@ -28,7 +28,7 @@ redirect_from:
 
 <h2 id='misc'> Misc </h2>
 
-- Here is my resume([cv-zh](/ref/cv.pdf)). I hope it will be helpful to you!
+- Here is my resume([cv-zh](/ref/cv.pdf),[cv-en](/ref/cv-en.pdf)). I hope it will be helpful to you!
 
 - Welcome to follow my [zhihu](https://www.zhihu.com/people/truth-26-44) account and my [bilibili](https://space.bilibili.com/516695104?spm_id_from=333.788.0.0) account.
 
