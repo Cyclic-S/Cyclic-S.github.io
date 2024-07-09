@@ -16,11 +16,11 @@ redirect_from:
 
 <h2 id='haa'> Awards </h2>
 
-- *2023.12* Win the `1st Prize` in the 15th Chinese Mathematics Competition(Mathematics Class A).
+- *2023.12* -- The `1st Prize` in the 15th Chinese Mathematics Competition(Mathematics Class A).
 
-- *2023.11* Win the `2st Prize` in the 2023 Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2023.11* -- The `2st Prize` in the 2023 Contemporary Undergraduate Mathematical Contest in Modeling.
 
-- *2023.03* Win the `1st Prize` in the 14th Chinese Mathematics Competition(Mathematics Class B).
+- *2023.03* -- The `1st Prize` in the 14th Chinese Mathematics Competition(Mathematics Class B).
 
 <h2 id='conferences'> Conferences </h2>
 
