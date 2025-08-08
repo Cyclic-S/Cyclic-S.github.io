@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cyclic"
 title_separator          : "-"
 name                     : &name "Haobin Li"
-description              : &description "Undergraduate student in the Department of Mathematics"
+description              : &description "Graduate student in the Department of Mathematics"
 url                      : https://cyclic.space # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cyclic-S/Cyclic-S.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haobin Li"
   avatar           : "profile.png"
-  bio              : "Undergraduate @ Xinyang Normal University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
-  location         : "Xinyang, China"
+  bio              : "Graduate @ Shandong University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
+  location         : "Jinan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "haobinli@xynu.edu.cn"
+  email            : "haobinli@mail.sdu.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            : # "https://orcid.org/0000-0002-9735-1186"
   pinterest        :
   soundcloud       :
-  stackoverflow    : '23343511/cyclic'
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 

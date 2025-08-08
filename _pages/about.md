@@ -10,12 +10,10 @@ redirect_from:
 
 <h2 id='educations'> Educations </h2>
 
-<!-- 
+
 - *2025.09 - Present*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" width="23pt"></a> School of Mathematics, Shandong University, Jinan China. 
 - *2021.09 - 2025.07*, <a href="https://www.xynu.edu.cn/"><img class="svg" src="/images/XYNU_logo.svg" width="23pt"></a> School of Mathematics and Statistics, Xinyang Normal University, Xinyang China. 
-  -->
 
-- *2021.09 - Present*, <a href="https://www.xynu.edu.cn/"><img class="svg" src="/images/XYNU_logo.svg" width="23pt"></a> School of Mathematics and Statistics, Xinyang Normal University, Xinyang China. 
 
 <h2 id='haa'> Awards </h2>
 <!-- 
