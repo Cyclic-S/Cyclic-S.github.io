@@ -13,8 +13,8 @@
    $indent-var                 : 0.5em;
    
    /* system typefaces */
-  $serif                      : "Computer Modern", "CMU Serif", "Latin Modern Roman", "Computer Modern Roman", Georgia, serif;
-  $sans-serif                 : "Computer Modern", "CMU Serif", "Latin Modern Roman", "Computer Modern Roman", Georgia, serif;
+  $serif                      : "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, sans-serif;
+  $sans-serif                 : "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, sans-serif;
    // $sans-serif                 : Georgia, serif, sans-serif;
    
    // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -57,11 +57,12 @@
    $lighter-gray               : mix(#fff, $gray, 90%);
    
    $body-color                 : #fff;
-   $background-color           : #fff;
+  $background-color           : #fbf1c7;
    $code-background-color      : #EDEDEB;
    $code-text-color           : #E65555;
    $code-background-color-dark : $light-gray;
    $text-color                 : $dark-gray;
+  $text-color                 : #3c3836;
    $border-color               : $lighter-gray;
    
    $primary-color              : #7a8288;
@@ -96,7 +97,8 @@
    
    /* links */
    $link-color                 : $info-color;
-   $link-color-hover           : mix(#000, $link-color, 25%);
+  $link-color                 : #458588;
+  $link-color-hover           : #9d0006;
    $link-color-visited         : mix(#fff, $link-color, 25%);
    $masthead-link-color        : $primary-color;
    $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
