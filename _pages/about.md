@@ -23,7 +23,7 @@ redirect_from:
 
 <h2 id='conferences'> Conferences </h2>
 
-- None
+- None.
 
 <h2 id='experience'> Academic and Professional Experience </h2>
 
