@@ -17,9 +17,9 @@ redirect_from:
 
 <h2 id='haa'> Awards </h2>
 
-- *2025 -- 2026* -- Second-Class Scholarship for Graduate Students, (Shandong University) .
-- *Dec. 2023* -- First Prize in the 15th Chinese Mathematics Competition (Mathematics Class A) .
-- *Nov. 2023* -- Second Prize in the 2023 Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2025 -- 2026*, Second-Class Scholarship for Graduate Students, (Shandong University) .
+- *Dec. 2023*, First Prize in the 15th Chinese Mathematics Competition (Mathematics Class A) .
+- *Nov. 2023*, Second Prize in the 2023 Contemporary Undergraduate Mathematical Contest in Modeling.
 
 <h2 id='conferences'> Conferences </h2>
 
