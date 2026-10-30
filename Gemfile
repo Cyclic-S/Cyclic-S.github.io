@@ -15,30 +15,18 @@
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
-# Gemfile
-
 source 'https://rubygems.org'
 
-# gem "jekyll", "~> 4.2"
+gem 'jekyll', '~> 3.9'
+gem 'tzinfo-data'
+gem 'jemoji'
 
-# group :jekyll_plugins do
-#   gem "jekyll-timeago", "~> 0.13.1"
-# end
-gem 'tzinfo-data'#, platforms: [:mingw, :mswin, :x64_mingw]
-
-# gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem "jekyll-timeago", "~> 0.13.1"
   gem 'jekyll-paginate'
   gem 'jekyll-gist'
   gem 'jekyll-redirect-from'
-  gem "jekyll-feed"
+  gem 'jekyll-feed'
   gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem 'kramdown-parser-gfm'
 end
 
 gem "webrick", "~> 1.7"
