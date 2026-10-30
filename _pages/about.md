@@ -25,7 +25,14 @@ redirect_from:
 
 - None
 
+<h2 id='experience'> Academic and Professional Experience </h2>
+
+- Teaching Assistant, Topology (Bilingual Course), Mar.--Jun. 2026<br>
+  <em>School of Mathematics, Shandong University</em><br>
+
+- Summer Camp of the 1st Chinese Mathematics Competitions, Jul.--Aug. 2023<br>
+  <em>Chinese Mathematical Society, Working Group of the Chinese Mathematics Competitions, Jiangsu Normal University</em>
+  
 <h2 id='misc'> Misc </h2>
 
 - Here is my resume([cv-zh](/ref/cv.pdf),[cv-en](/ref/cv-en.pdf)). 
-
