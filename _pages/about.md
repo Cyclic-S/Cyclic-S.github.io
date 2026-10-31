@@ -11,8 +11,8 @@ redirect_from:
  <h2 id='education'> Education </h2>
 
 
-- *Sep. 2025 -- Present*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" width="23pt"></a> School of Mathematics, Shandong University, Jinan China.  Advisor: <a href="https://faculty.sdu.edu.cn/wangke12345678/">Ke Wang</a>.
-- *Sep. 2021 -- Jul. 2025*, <a href="https://www.xynu.edu.cn/"><img class="svg" src="/images/XYNU_logo.svg" width="23pt"></a> School of Mathematics and Statistics, Xinyang Normal University, Xinyang China. 
+- *Sep. 2025 -- Present*, M.S. Student, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" height="1.1em"></a> School of Mathematics, Shandong University, Jinan, China.  Supervisor: <a href="https://faculty.sdu.edu.cn/wangke12345678/en/">Ke Wang</a>.
+- *Sep. 2021 -- Jul. 2025*, B.S., <a href="https://www.xynu.edu.cn/"><img class="svg" src="/images/XYNU_logo.svg" width="23pt"></a> School of Mathematics and Statistics, Xinyang, Normal University, Xinyang China. 
 
 
 <h2 id='haa'> Awards </h2>
