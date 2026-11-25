@@ -1,70 +1,60 @@
-# Others
+# Miscellaneous Notes
 
-###RubyGems 换源
+## RubyGems mirror
 
-```
+To use the Ruby China mirror instead of the default RubyGems source:
+
+```sh
 gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 gem sources -l
 ```
 
-### Bundler换源
+Configure Bundler to use the same mirror:
 
-```
+```sh
 bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 ```
 
-### Error: No source of timezone data could be found
+## Troubleshooting
 
-检查gemfile文件，看是否存在tzinfo-data, 若已经存在，会找到类似以下的一行，
+### `No source of timezone data could be found`
 
-```
-gem 'tzinfo-data', platforms: [:mingw, :mswin]
-```
+Check your `Gemfile` for `tzinfo-data`. If it is already present, make sure its platform list includes the platform you use. For 64-bit Windows with MinGW, for example:
 
-由于使用的64位的系统，因此需要给platforms增加:x64_mingw的设置，即：
-
-```
+```ruby
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 ```
 
-### 在启动服务器的过程中提示错误 cannot load such file -- webrick (LoadError)
+If you see `TZInfo::DataSourceNotFound`, you can also remove `Gemfile.lock` and add these dependencies to your `Gemfile`:
 
-执行命令添加 webrick
-
-```text
-bundle add webrick
-```
-
-### “ No source of timezone data could be found. (TZInfo::DataSourceNotFound) #8 ”
-
-删除Gemfile.lock文件，然后，在Gemfile文件中，加入两个安装依赖。
-
-```text
+```ruby
 gem 'tzinfo'
 gem 'tzinfo-data'
 ```
 
-如果在Windwos上使用的MinGW这种系统，还可以加入后缀修饰，指定平台信息。
+Then run:
 
-```text
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw] 
-```
-
-bundle
-
-```
+```sh
 bundle clean
 bundle update
 bundle install
 bundle lock --add-platform x86_64-linux
 bundle exec jekyll serve
 ```
-git
 
+### `cannot load such file -- webrick (LoadError)`
+
+Add the `webrick` dependency:
+
+```sh
+bundle add webrick
 ```
+
+## Git workflow
+
+```sh
 git add .
 git commit -m "commit"
-% git pull
+git pull
 git push
 ```
-
